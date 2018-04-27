@@ -33,6 +33,15 @@ cd Fluxion-awus1900
 ./fluxion.sh
 ```
 
+## Usage (AWUS1900)
+
+There are two wireless interfaces:
+  - the first (wlan0)  ->  use this the first time, when the program says  "Select a wireless interface"
+  - the second (wlan1)  ->  use in Captive Portal, when the program says  "Select an interface for the captive portal"
+ 
+ ### !!! do not use the same interface !!!
+
+
 ## Changelog
 
 - added interface selection for switching between virtualization or not in Captive Portal

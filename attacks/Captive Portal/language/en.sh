@@ -31,7 +31,7 @@ CaptivePortalConnectivityEmulatedOption="emulated"
 
 
 Virtualizzazione_NETGEAR="Virtualizzation"
-$AWUS1900="NOT supported  (e.g. AWUS1900)"
+AWUS1900="NOT supported  (e.g. AWUS1900)"
 
 
 # FLUXSCRIPT END
